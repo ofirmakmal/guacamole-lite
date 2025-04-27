@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Test Sound (paplay)
+Comment=Play a test sound using paplay
+Exec=paplay /usr/share/sounds/freedesktop/stereo/bell.oga
+Icon=audio-volume-medium
+Terminal=false
+StartupNotify=false 

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Test Sound (aplay)
+Comment=Play a test sound using aplay
+Exec=aplay /usr/share/sounds/freedesktop/stereo/bell.oga
+Icon=audio-volume-medium
+Terminal=true
+StartupNotify=false 
